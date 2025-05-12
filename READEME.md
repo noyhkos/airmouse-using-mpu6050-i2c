@@ -13,6 +13,6 @@
 4. cpp 베이스 실행파일로 UART 수신 후 마우스 제어
 
 ## 기타
-보드개발: STM CubeIDE
-마우스 제어프로그램 개발: Visual Studio 2022
+보드개발: STM CubeIDE(main.c)
+마우스 제어프로그램 개발: Visual Studio 2022(main.cpp, serial.h)
 
